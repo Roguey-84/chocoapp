@@ -1,0 +1,19 @@
+{
+  "name": "chocoapp",
+  "version": "1.0.0",
+  "description": "Test choco app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roguey-84/chocoapp.git"
+  },
+  "author": "Svetlana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roguey-84/chocoapp/issues"
+  },
+  "homepage": "https://github.com/Roguey-84/chocoapp#readme"
+}

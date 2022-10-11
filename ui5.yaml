@@ -1,0 +1,13 @@
+specVersion: '2.6'
+metadata:
+  name: chocoapp
+type: application
+framework:
+  name: SAPUI5
+  version: "1.107.0"
+  libraries:
+    - name: sap.f
+    - name: sap.m
+    - name: sap.ui.comp
+    - name: sap.ui.core
+    - name: sap.ui.table
